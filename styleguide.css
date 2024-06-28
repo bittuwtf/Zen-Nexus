@@ -1,0 +1,17 @@
+:root {
+  --white-background: rgba(255, 255, 255, 1);
+  --dark-green-buttons: rgba(58, 79, 57, 1);
+  --black-fonts-headings: rgba(45, 46, 46, 1);
+  --button-font-family: "Inter", Helvetica;
+  --button-font-weight: 500;
+  --button-font-size: 18px;
+  --button-letter-spacing: 0px;
+  --button-line-height: normal;
+  --button-font-style: normal;
+  --text-font-family: "Inter", Helvetica;
+  --text-font-weight: 400;
+  --text-font-size: 16px;
+  --text-letter-spacing: 0px;
+  --text-line-height: normal;
+  --text-font-style: normal;
+}
